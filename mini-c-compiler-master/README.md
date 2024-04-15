@@ -14,5 +14,6 @@ It has been built as a series of four incremental phases, each contributing a ke
 
 
 ### Team Members
- - Karthik M (15CO221)
- - Kaushik S Kalmady (15CO222)
+ - Mayur Jinde (201IT135)
+ - Sanket (201IT154)
+ - Kalpana Talwar (201IT228)
